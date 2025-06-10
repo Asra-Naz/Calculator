@@ -1,4 +1,6 @@
 BMI Calculator
+
+
 This is a simple Java console application that calculates a user's Body Mass Index (BMI) based on their weight in pounds and height in meters. The program then classifies the BMI into standard health categories.
 
 Features
